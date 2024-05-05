@@ -384,5 +384,5 @@ def search(requset):
           }
           return render(requset, 'Shop/search.html', data)
      else:
-        return render(requset, 'Shop/search.html', data)       
+        return render(requset, 'Shop/search.html', data)         
    
